@@ -1,0 +1,58 @@
+@model FoodProject.Models.FoodItem
+
+@{
+    ViewData["Title"] = "Edit Item";
+}
+
+<h2>Edit Item</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>@Model.Name</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.CategoryId)
+        <input type="hidden" name="returnUrl" value="@Url.Action()" />
+        <div class="form-group">
+            <label class="col-md-6">Edit Name</label>
+            <div class="col-md-6">
+                @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-md-6">Edit Price</label>
+            <div class="col-md-6">
+                @Html.EditorFor(model => model.Price, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Price, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        @* <div class="form-group">
+            <label class="col-md-6">Change Category</label>
+            <div class="col-md-6">
+                <select class="form-control" asp-for="@Model.Category">
+                    <option></option>
+                    @foreach (var category in ViewBag.Categories)
+                    {
+                        <option value="@category.Name">@category.Name</option>
+                    }
+                </select>
+            </div>
+        </div> *@
+
+        <div class="form-group">
+            <div class="col-md-10">
+                <input type="submit" value="Save" class="btn btn-light" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    <p class="text-danger ml-3">@TempData["SameNameError"]</p>
+    @Html.ActionLink("Go to Categories", "Category", "Home", new{categoryId = Model.CategoryId, returnUrl =
+    Url.Action("Category", new { categoryId = Model.CategoryId })}, new { @class = "btn btn-primary" })
+</div>

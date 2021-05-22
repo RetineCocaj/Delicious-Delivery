@@ -1,0 +1,426 @@
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.RazorAssemblyInfo.cache
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.RazorAssemblyInfo.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.pdb
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\FoodProject.StaticWebAssets.xml
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\app.db
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\FoodProject.exe
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\FoodProject.deps.json
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\FoodProject.runtimeconfig.json
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\FoodProject.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\FoodProject.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\FoodProject.pdb
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\FoodProject.Views.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\FoodProject.Views.pdb
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\staticwebassets\FoodProject.StaticWebAssets.Manifest.cache
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\staticwebassets\FoodProject.StaticWebAssets.xml
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\FoodProject.styles.css
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.TagHelpers.input.cache
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.TagHelpers.output.cache
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.RazorCoreGenerate.cache
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Category\Add.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Category\AddItem.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Category\EditItem.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\All.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Buy.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Category.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Order\Details.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\RoleManager\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Checkout.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\CheckoutConfirmed.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Details.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Edit.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\UserRoles\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\UserRoles\Manage.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.RazorTargetAssemblyInfo.cs
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.Views.pdb
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.csproj.CopyComplete
+C:\Users\Asus\Desktop\Coding-Dojo\Projects & Algorithms\GroupProject\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.genruntimeconfig.cache
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\FoodProject.StaticWebAssets.xml
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\app.db
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\FoodProject.exe
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\FoodProject.deps.json
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\FoodProject.runtimeconfig.json
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\FoodProject.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\FoodProject.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\FoodProject.pdb
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\FoodProject.Views.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\FoodProject.Views.pdb
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\FoodProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.AssemblyInfo.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.RazorAssemblyInfo.cache
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.RazorAssemblyInfo.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\staticwebassets\FoodProject.StaticWebAssets.Manifest.cache
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\staticwebassets\FoodProject.StaticWebAssets.xml
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\FoodProject.styles.css
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.TagHelpers.input.cache
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.TagHelpers.output.cache
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.RazorCoreGenerate.cache
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Category\Add.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Category\AddItem.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Category\EditItem.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\All.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Buy.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Category.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Order\Details.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\RoleManager\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Checkout.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\CheckoutConfirmed.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Details.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Edit.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\UserRoles\Index.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\UserRoles\Manage.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.RazorTargetAssemblyInfo.cs
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.Views.pdb
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.csproj.CopyComplete
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.dll
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.pdb
+C:\Users\Asus\Desktop\FoodProject\obj\Debug\netcoreapp3.1\FoodProject.genruntimeconfig.cache

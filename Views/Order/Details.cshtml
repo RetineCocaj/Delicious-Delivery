@@ -1,0 +1,67 @@
+﻿@model ICollection<FoodProject.Models.Order>
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Orders</h2>
+
+<div>
+    <hr />
+    
+    <table class="table category-table">
+        <tr>
+            <th>
+                Payment
+            </th>
+
+            <th>
+                Items
+            </th>
+            <th>
+                Order Date
+            </th>
+            <th>
+                Destination
+            </th>
+            <th>Status</th>
+        </tr>
+
+        @if ( Model != null && Model.Count > 0)
+        {
+            foreach (var order in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => order.TotalAmount)
+                    </td>
+
+                    <td>
+                        @foreach (var item in order.Items)
+                        {
+                            var priceQuantity = item.Quantity * item.Price;
+                            @Html.Raw(item.Name + " (x" + item.Quantity.ToString() + ")" + "<br />")
+                        }
+                    </td>
+                    <td>
+                        @order.OrderDate.ToString("dd/MM/yyyy HH:mm:ss")
+                    </td>
+                    <td>
+                        @order.Destination
+                    </td>
+                    <td>
+                        @order.Status
+                        @* @Html.ActionLink("Remove", "Delete", "Order", new { id = order.OrderId, returnUrl = Url.Action() }, new { @class = "btn btn-lg btn-primary btn-danger" }) *@
+                    </td>
+                </tr>
+            }
+
+
+        }
+        else
+        {
+            <tr class="text-center"><td colspan="4"><h4>You have no Pending Orders at the moment.</h4> </td> </tr>
+        }
+
+    </table>
+</div>

@@ -1,0 +1,94 @@
+@model IEnumerable<FoodItem>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+@{
+    ViewData["Title"] = "All Food Items";
+}
+
+<h2>All Food Items
+    @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+    {
+        @Html.ActionLink("", "AddItem", "Category", new { categoryId = ViewBag.CategoryId, returnUrl = @Url.Action() }, new
+    { @class = "text-light", @id="addItemBtn"})
+    }
+</h2>
+
+<h5 class="text-danger">@TempData["NotLoggedIn"]</h5>
+
+@if (ViewBag.Message != null)
+{
+    <p class="text-center text-success">@(ViewBag.Message as string)</p>
+}
+else
+{
+    <p class="text-center text-danger">@(ViewBag.ErrorMessage as string)</p>
+}
+
+<table class="table category-table">
+    <tr>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            Category
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+
+        <th>Cart Actions</th>
+        @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+        {
+            <th>Item Actions</th>
+        }
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @if (item.isEnabled == true)
+                {
+                    @Html.ActionLink("Add To Cart", "Buy", new { id = item.FoodItemId, returnUrl = Url.Action() }, new {
+            @class ="btn btn-primary" })
+                }
+                else
+                {
+                    <button disabled type="button" class="btn btn-success">Added to Cart</button>
+                    @Html.ActionLink("Edit", "Edit", "ShoppingCart", new { cartItemId = item.CartItemId, returnUrl =
+            Url.Action() },new { @class = "btn btn-primary mr-1" })
+                    @Html.ActionLink("Remove", "Remove", "ShoppingCart", new { cartItemId = item.CartItemId, returnUrl =
+            Url.Action() }, new { @class = "btn btn-danger" })
+                }
+
+            </td>
+            @if (SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+            {
+                <td>
+                    @Html.ActionLink("Edit", "EditItem", "Category", new { foodItemId = item.FoodItemId, returnUrl =
+            Url.Action() }, new { @class = "btn btn-primary" })
+                    @Html.ActionLink("Remove", "RemoveItem", "Category", new { foodItemId = item.FoodItemId, returnUrl =
+            Url.Action() }, new { @class = "btn btn-danger" })
+                </td>
+            }
+        </tr>
+    }
+
+</table>
+
+<script>
+    $(document).ready(function(){
+        $('#addItemBtn').append('<i class="fa fa-plus-circle ml-2" style="font-size: 18pt;" title="Click here to add an Item!"></i>');
+    });
+</script>

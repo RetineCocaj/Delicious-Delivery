@@ -1,0 +1,123 @@
+@using FoodProject.Models
+@model CategoryViewModel
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+@{
+    ViewData["Title"] = "Categories";
+}
+<div class ="d-flex justify-content-between align-items-end">
+    <h2>Categories
+    @if(SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+    {
+        @Html.ActionLink("", "Add", "Category", new { returnUrl = @Url.Action() }, new { @class = "text-light", @id="addCategoryBtn"})
+    }
+    </h2>
+</div>
+
+<h5 class="text-danger">@TempData["NotLoggedIn"]</h5>
+
+<table class="table category-table">
+    <tr>
+        <th>Name</th>
+        <th class="text-center">Number of Food Items</th>
+        <th class="text-center">Category Actions</th>
+
+    </tr>
+
+    @foreach (Category item in Model.Categories)
+    {
+        <tr class="@(item.CategoryId == ViewBag.CategoryId ? "selected": "") ">
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td class="text-center">
+                @item.FoodItems.Count
+            </td>
+            <td class="text-center">
+                @Html.ActionLink("Show", "Category", null, null, null, "selectedFoodTable", new { categoryId = item.CategoryId }, new { @class = "btn btn-success", @id="showBtn"})
+                @if(SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                {
+                    @Html.ActionLink("Edit", "Edit", "Category", new { categoryId = item.CategoryId, returnUrl = Url.Action() }, new { @class = "btn btn-primary mr-2" })
+                    @Html.ActionLink("Remove", "Remove", "Category", new { categoryId = item.CategoryId, returnUrl = Url.Action() }, new { @class = "btn btn-danger" })
+                }
+            </td>
+        </tr>
+    }
+
+</table>
+
+
+@if (ViewBag.CategoryId != null)
+{
+    <div class="d-flex justify-content-between align-items-end flex-wrap px-4 py-2">
+    <h4>All Food items in Selected Category
+        @if(SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+        {
+            @Html.ActionLink("", "AddItem", "Category", new { categoryId = ViewBag.CategoryId, returnUrl = @Url.Action() }, new { @class = "text-light", @id="addItemBtn"})
+        }
+    </h4>
+    
+    <table class="table category-table" id="selectedFoodTable">
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Cart Actions</th>
+            @if(SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+            {
+                <th>Item Actions</th>
+            }
+        </tr>
+        @if (Model.FoodItems.Count > 0)
+        {
+            @foreach (FoodItem food in Model.FoodItems)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => food.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => food.Price)
+                    </td>
+                    <td>
+                        @if (food.isEnabled == true)
+                        {
+                            @Html.ActionLink("Add To Cart", "Buy", new { id = food.FoodItemId, returnUrl = Url.Action("Category", new { categoryId = food.CategoryId }) + Html.Raw("#selectedFoodTable") }, new { @class = "btn btn-primary" })
+                        }
+                        else
+                        {
+                            <button disabled type="button" class="btn btn-success">Added to Cart</button>
+                            @Html.ActionLink("Edit", "Edit", "ShoppingCart", new { cartItemId = food.CartItemId, returnUrl = Url.Action("Category", new { categoryId = food.CategoryId }) + Html.Raw("#selectedFoodTable") }, new { @class = "btn btn-primary mr-1" });
+                            @Html.ActionLink("Remove", "Remove", "ShoppingCart",
+                                new { cartItemId = food.CartItemId, returnUrl = Url.Action("Category", new { categoryId = food.CategoryId }) + Html.Raw("#selectedFoodTable") },
+                                new { @class = "btn btn-danger" });
+                        }
+                    </td>
+                    @if(SignInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+                    {       
+                        <td class="">
+                            @Html.ActionLink("Edit", "EditItem", "Category", new { foodItemId = food.FoodItemId, returnUrl = Url.Action() }, new { @class = "btn btn-primary" })
+                            @Html.ActionLink("Remove", "RemoveItem", "Category", new { foodItemId = food.FoodItemId, returnUrl = Url.Action() }, new { @class = "btn btn-danger" })
+                        </td>
+                    }
+                </tr>
+            }
+        }else{
+            <tr>
+                <td colspan="3" class="text-center">This category has no items</td>
+            </tr>
+        }
+    </table>
+    </div>
+}
+
+<script>
+    $(document).ready(function(){
+        $(".selected td:nth-child(3) a:nth-child(1)").html("Showed");
+        $(".selected td:nth-child(3) a:nth-child(1)").addClass("disabled");
+        $('#addItemBtn').append('<i class="fa fa-plus-circle ml-2" style="font-size: 18pt;" title="Click here to add an Item!"></i>');
+        $('#addCategoryBtn').append(' <i class="fa fa-plus-circle ml-2" style="font-size: 22pt;"title="Click here to add a Category!"></i>');
+    });
+</script>
+
+

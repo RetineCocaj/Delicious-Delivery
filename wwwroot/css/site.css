@@ -1,0 +1,388 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}
+
+
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  background-color:#444;    
+  color: white!important;
+}
+
+body::before{
+  content: "";
+  position: fixed;
+  background-image: url(/images/food-one.jpg);
+  top: 0;
+  left: 0;
+  bottom: 0;
+  height:100%;
+  width:100%;
+  background-size:cover;
+  background-attachment:fixed;
+  background-repeat:no-repeat;
+  z-index:-2;
+
+  animation-name: fader;
+  animation-fill-mode:both;
+  animation-duration: 40s;
+  animation-iteration-count:infinite;
+  animation-timing-function:ease-in;
+}
+
+table{
+  color: white!important;
+  font-size: 16pt!important;
+}
+
+header{
+  margin: 0 13%;
+  margin-top: -50px;
+}
+
+@keyframes fader {
+  0% {  
+    background-image: url(/images/food-one.jpg); 
+  }
+
+  20% {
+    background-image: url(/images/food-one.jpg); 
+
+  }
+
+  25% {  
+    background-image: url(/images/food-two.jpg);
+  }
+
+
+  45% {
+      background-image: url(/images/food-two.jpg); 
+  }
+
+  50% {
+      background-image: url(/images/food-three.jpeg);
+  }
+
+  70% {
+      background-image: url(/images/food-three.jpeg);
+  }
+
+  75% {
+      background-image: url(/images/food-four.jpg);
+  }
+
+  95% {
+      background-image: url(/images/food-four.jpg);
+  }
+  100% {
+      background-image: url(/images/food-one.jpg);
+  }
+  
+}
+
+
+.body-content {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.dl-horizontal dt {
+  white-space: normal;
+}
+
+input,
+select,
+textarea {
+  max-width: 280px;
+}
+
+#nav, .navbar-brand{
+  background-color: var(---nav-bg-color);
+  color: white !important;
+  text-decoration:none;
+}
+
+#nav li a{
+  font-family:'Segoe UI', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+  transition-property: transform, background-color, color;
+  transition-duration: .5s, .2s, .2s;
+  transition-timing-function: ease-out, ease-out, ease-in;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  letter-spacing:1px;
+}
+
+#nav li:hover a{
+  background-color: var(---nav-bg-color);
+  box-shadow: 0px -2px rgba(0,0,0,.3), 0px 2px rgba(0,0,0,.1);
+  color:var(---nav-hover-color);
+  transform: translateY(5px);
+  
+}
+
+.nav-animation{
+  display:none;
+}
+
+#navToggle{
+  background-color: inherit;
+  color: black;
+  border-color: white !important;
+}
+#brandName{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 2em;
+  font-weight:bold;
+}
+
+#home-jumbotron{
+  background-color: rgba(0,0,0,0);
+  background-image: linear-gradient(to bottom,var(---jumbotron-bg-start),
+  var(---jumbotron-bg-end) var(---jumbo-slider-end)) ;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  color: var(---jumbo-text);
+  margin-bottom: 0px;
+}
+
+
+#navToggle .icon-bar{
+  background-color:white;
+}
+
+table{
+  font-size:1.8rem;
+}
+
+table.table th:first-child{
+  border-top-left-radius: 10px;
+}
+table.table th:last-child{
+  border-top-right-radius:10px;
+}
+
+table.table tbody > tr > th, table.table tbody > tr > td{
+  border-top: none;
+}
+.table-striped > tbody > tr:nth-child(odd) > td, 
+.table-striped > tbody > tr:nth-child(odd) > th{
+  background-color: var(---bg-color-list-odd);  
+}
+
+.table-striped > tbody > tr:nth-child(even) > td {
+  background-color:var(---bg-color-list-even);
+}
+
+table tr:hover{
+  background-color:rgba(255,255,255,.5);
+  color:var(---body-text-hover-color);
+}
+
+
+.selected{
+  color:black;
+  background-color: rgba(0, 128, 49, 0.527);
+}
+
+
+.btn{
+  border:none;   
+}
+
+#checkoutBtn{
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  top:80%;
+}
+
+#themeBtn{
+  background-color: var(---background-color);
+  color:white;
+}
+#themeBtn:hover{
+  color:black;
+}
+
+.index-nav-card > .card-bg{
+  transition: .5s background-color ease-out;
+  border-radius: 15px;
+  padding:10px;
+}
+
+.index-nav-card > .card-bg:hover{
+  color:var(---body-text-color);
+  background-color: var(---card-bg-hover-color);
+  
+}
+
+
+
+
+body > .container{
+  background:rgba(0,0,0,.5);
+  border-bottom-left-radius:15px;
+  border-bottom-right-radius:15px;
+  border:none;
+  box-shadow: rgba(0,0,0,.3) 20px 30px 30px 100px, rgba(0,0,0,.2) -30px 30px 30px 80px;
+  margin-top:50px;
+  padding: 2%;
+}
+
+#ordersBtn{
+  background-color: var(---bg-color-list-odd);
+  color:white;
+  position: fixed;
+  left: 91%;
+  transform: translateX(-91%) translateY(-100%);
+  transition: .1s background-color ease-out;
+}
+
+#ordersBtn:hover{
+  background-color: var(---bg-color-list-even);
+}
+
+@media screen and (min-width: 800px){
+  #ordersBtn{
+      top:20%;
+  }
+}
+
+
+@media screen and (max-width: 800px){
+  body > .container{
+          box-shadow: rgba(0,0,0,.4) 20px 30px 30px 100px, rgba(0,0,0,.2) -30px 30px 30px 80px;
+      
+          
+          
+  }
+
+  #nav li a:hover{
+      background-color: rgba(0,0,0,.2);
+      color:white;
+      transform: translateY(-5px) scale(1.05);
+      font-weight:bold;   
+  }
+
+  #ordersBtn{
+      top: 20%;
+  }
+}
+
+@media screen and (max-width: 280px){
+  
+
+  #ordersBtn{
+      top: 18%;
+  }
+}
+
+@media screen and (min-height: 720px){
+  
+
+  #ordersBtn{
+      top: 16%;
+  }
+}
+
+@media screen and (max-height: 550px){
+  
+
+  #ordersBtn{
+      top: 25%;
+  }
+}
+
+@media screen and (min-height: 800px){
+  
+
+  #ordersBtn{
+      top: 17%;
+  }
+}
+
+@media screen and (min-height: 900px){
+  
+
+  #ordersBtn{
+      top: 15%;
+  }
+}
+
+@media screen and (min-height: 1000px){
+  
+
+  #ordersBtn{
+      top: 14%;
+  }
+}
