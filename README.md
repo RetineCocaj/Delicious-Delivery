@@ -1,1 +1,1 @@
-Online food ordering system, developed with C#/.NET, MySql, JavaScript, Bootstrap, CSS, HTML
+Online food ordering system, developed with C#/.NET, MySql, Bootstrap, CSS, HTML
